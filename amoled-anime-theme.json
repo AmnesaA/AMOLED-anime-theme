@@ -239,7 +239,7 @@
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
-    "position": "center"
+    "position": "right"
   },
   "plus": {
     "version": "0",
